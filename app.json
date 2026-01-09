@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Cours 4 - Structure",
+    "slug": "cours4-structure",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.cours4.structure",
+      "compileSdkVersion": 34,
+      "targetSdkVersion": 34,
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "scheme": "cours4",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
