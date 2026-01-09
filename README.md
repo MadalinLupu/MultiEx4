@@ -2,13 +2,11 @@
 
 Cette application démontre l'organisation d'un projet React Native avec Expo Router, couvrant tous les thèmes de la séance 4.
 
-## 📚 Documentation
+##  Documentation
 
 - **[REFERENCE_COURS.md](REFERENCE_COURS.md)** : Lien entre les pages du cours et les fichiers de l'application
-- **[EXERCICES.md](EXERCICES.md)** : Exercices avec corrections
-- **[GUIDE_NAVIGATION.md](GUIDE_NAVIGATION.md)** : Guide complet sur la navigation avec Expo Router
 
-## 🏗️ Structure du projet
+##  Structure du projet
 
 ```
 app/                    # Écrans et routes (Expo Router)
@@ -32,13 +30,13 @@ features/               # Logique métier et données
     items.ui.js         # UI (ItemRow)
 ```
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 npm install
 ```
 
-## ▶️ Lancement
+##  Lancement
 
 ```bash
 npm start
@@ -49,7 +47,7 @@ Puis choisissez votre plateforme :
 - Appuyez sur `i` pour iOS
 - Appuyez sur `w` pour Web
 
-## 📖 Thèmes couverts
+##  Thèmes couverts
 
 ### 1. Structure de projet (Pages 3-4)
 - Organisation en trois couches (Écrans, Features, UI)
@@ -78,16 +76,14 @@ Puis choisissez votre plateforme :
 - Séparation données/UI
 - Feature items complète
 
-## 🎯 Exercices
-
-Voir [EXERCICES.md](EXERCICES.md) pour les exercices détaillés avec corrections.
+##  Exercices
 
 1. **Exercice 1** : UI réutilisable
 2. **Exercice 2** : Feature items
 3. **Exercice 3** : Tabs + Stack
 4. **Exercice 4** : not-found + guard
 
-## 💡 Concepts clés
+##  Concepts clés
 
 ### Pourquoi structurer ?
 - Réduire le copier-coller
@@ -104,7 +100,7 @@ Voir [EXERCICES.md](EXERCICES.md) pour les exercices détaillés avec correction
 - **Features** : logique métier
 - **UI** : composants réutilisables
 
-## 📝 Notes
+##  Notes
 
 - Tous les fichiers contiennent une documentation complète en français
 - Chaque concept est expliqué avec des références aux pages du cours
